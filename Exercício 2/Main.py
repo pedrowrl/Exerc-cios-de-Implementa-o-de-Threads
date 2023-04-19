@@ -3,7 +3,7 @@
 #Data: 19/04/2023
 
 
-#Exercício de implentação de um programa em Python que realiza o cálculo das somas dos valores das linhas de uma matriz 5x5:
+#Exercício de implementação de um programa em Python que realiza o cálculo das somas dos valores das linhas de uma matriz 5x5:
 
 import threading
 import random
